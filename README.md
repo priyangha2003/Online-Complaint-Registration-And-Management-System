@@ -1,6 +1,4 @@
-# Creating a raw README file content based on the provided information.
-
-readme_content = """
+readme_content 
 # Online Complaint Registration and Management System
 
 ## Overview
